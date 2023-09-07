@@ -1,9 +1,16 @@
-@import '@fontsource/fira-mono';
 
 
-h1 {
-  font-family: 'Fira Mono', monospace;
-  font-size: 2rem;
-  font-weight: 400;
-  color: #db0707;
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+nav * {
+	font-family: 'Roboto', sans-serif;
+	text-transform: capitalize;
+
+}
+
+p, body {
+	font-family: 'Nunito', sans-serif;
 }
