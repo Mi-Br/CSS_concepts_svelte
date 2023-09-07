@@ -1,0 +1,9 @@
+@import '@fontsource/fira-mono';
+
+
+h1 {
+  font-family: 'Fira Mono', monospace;
+  font-size: 2rem;
+  font-weight: 400;
+  color: #db0707;
+}
