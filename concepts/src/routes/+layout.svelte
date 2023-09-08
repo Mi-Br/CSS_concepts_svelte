@@ -1,3 +1,7 @@
+<script>
+    import  './styles.css';
+</script>
+
 <nav>
     <ul>
         <li><a href="/">🏠</a></li>
